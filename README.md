@@ -9,6 +9,7 @@ COR Origin settings can be changed in Yanne_tech/Settings.py
 Admin page Logger and API logger can be enabled or disabled in Yanne_tech/Global_config.py
 
 ---------------------TO RUN THE APPLICATION-----------------------------------
+
 Step 1 ==> Create and Activate an Environment or Activate your existing Environment in the CMD/Terminal
 Step 2 ==> Install libraries from requirements.txt in your Environment
 Step 3 ==> Run the following command in your Environment
