@@ -11,7 +11,9 @@ Admin page Logger and API logger can be enabled or disabled in Yanne_tech/Global
 ---------------------TO RUN THE APPLICATION-----------------------------------
 
 Step 1 ==> Create and Activate an Environment or Activate your existing Environment in the CMD/Terminal
+
 Step 2 ==> Install libraries from requirements.txt in your Environment
+
 Step 3 ==> Run the following command in your Environment
             python manage.py runserver 0.0.0.0:8000
 
