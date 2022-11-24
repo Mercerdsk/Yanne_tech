@@ -44,3 +44,8 @@ The API provide three endpoints as mentioned below,
       GET Method to fetch the book details based on the given genre name 
       PUT Method to change or update the details for the provided genre name 
       DELETE Method to Delete the respective genre name 
+
+ADMIN PAGE can be accessed using the following URL "BASE_URL/admin"
+
+Username : admin
+Password : root@123
